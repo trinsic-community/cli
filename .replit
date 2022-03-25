@@ -1,0 +1,4 @@
+run = "./install.sh"
+
+[nix]
+channel = "unstable"
